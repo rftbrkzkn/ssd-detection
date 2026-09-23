@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Veri ve model dosyalari
+/data/
+*.pth
+*.onnx
